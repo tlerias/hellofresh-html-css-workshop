@@ -18,7 +18,7 @@
 
 
 # Getting Started
-- [ ] Clone this repo
+- [ ] FORK this repo
 - [ ] [Create a new branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) with your name
 - [ ] Navigate to this folder on your computer and open up index.html in browser
 - [ ] Open the [HF Menu Page](https://www.hellofresh.com/menus) in a separate browser tab. This is the page we will be building.
@@ -130,3 +130,6 @@
 - [ ] When in Mobile view you will only have 1 recipe card per row
 
 ![mobile view](./menu-mobile.png)
+
+# Finish
+- [ ] Create a pull request when finished then reach out to @Tara Bird to review your code.
