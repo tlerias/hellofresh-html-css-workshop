@@ -142,7 +142,7 @@
 
 ### Sticky Footer
 - [ ] Make the footer with the "Get cooking" button sticky to the bottom of the page.
-- [ ] Change the "Get cooking" Footer link to be an HTML Button instead, fix the styles.
+- [ ] Currently the "Get cooking" Footer link doesn't work. Make it go to the [HelloFresh Plans Page](https://www.hellofresh.com/plans)
 
 ## Commit & Reflect
 - [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
