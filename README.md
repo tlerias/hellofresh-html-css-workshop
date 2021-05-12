@@ -18,7 +18,8 @@
 
 
 # Getting Started
-- [ ] FORK this repo
+- [ ] [FORK](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) this repo
+- [ ] Clone the fork to your local machine
 - [ ] [Create a new branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) with your name
 - [ ] Navigate to this folder on your computer and open up index.html in browser
 - [ ] Open the [HF Menu Page](https://www.hellofresh.com/menus) in a separate browser tab. This is the page we will be building.
