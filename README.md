@@ -13,7 +13,7 @@
 - [Flexbox Cheat sheet](https://flexbox.malven.co/)
 - [Accessible Color Contrast Helper](https://color.a11y.com)
 - [More about Web Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
-- [GOOGLE IS YOUR BEST FRIEND!](www.google.com)
+- [GOOGLE IS YOUR BEST FRIEND!](http://www.google.com)
 
 
 
