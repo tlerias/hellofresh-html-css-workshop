@@ -8,6 +8,8 @@
 
 # The Workshop
 
+![desktop view](./menu-desktop.png)
+
 ## Add an HTML meta title
 - Go to https://www.hellofresh.com/menus, what's the title that we use here? Add it to your HTML file.
 
@@ -79,7 +81,11 @@
 
 ### <div class="hall-of-fame"></div>
 ![hall of fame](./hall-of-fame.png)
+### Discussion:
+- What is an SVG?
+- How is it different from an image?
 ### Requirements
+- [ ] Change the color of the stars to be yellow
 - [ ] Card must be as tall as two cards and fit the length of the container (as we currently do on the [HF Menu Page](https://www.hellofresh.com/menus))
 - [ ] Image must be 728px tall
 - [ ] Review text must overlap the image and review author's name must be on the right with the rest of the review text left aligned
@@ -97,10 +103,12 @@
 
 ### Advanced
 
-## Make the page responsive and look good on mobile and tablet.
+## Make the page responsive and look good on mobile
 
 ### Discussion:
 - How do you add styles just to the mobile view?
 ### Requirements:
-- [ ] When in Tablet & Mobile view Hall of Fame recipes become the same size as all the other recipe cards
-- [ ] When in Tablet & Mobile view you will only have 2 recipe cards per row
+- [ ] When in Mobile view Hall of Fame recipes become the same size as all the other recipe cards
+- [ ] When in Mobile view you will only have 1 recipe card per row
+
+![mobile view](./menu-mobile.png)
