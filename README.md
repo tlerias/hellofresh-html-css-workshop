@@ -165,4 +165,4 @@
 ![mobile view](./menu-mobile.png)
 
 # Finish
-- [ ] Create a pull request when finished then reach out to @Tara Bird to review your code.
+- [ ] [Create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) when finished then reach out to @Tara Bird to review your code.
