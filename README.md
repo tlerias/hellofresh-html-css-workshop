@@ -96,7 +96,7 @@
 ### Discussion:
 - What is the difference between `<ul></ul>` and `<ol><ol>`?
 - We removed the bullet points for our links in our <ul /> but what are some other bullet point types you can specify?
-`
+
 ## Style Menu Cards
 ### Discussion:
 - What are the different ways we can add 3 rows of recipe cards?
