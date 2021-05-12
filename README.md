@@ -98,29 +98,26 @@
 - We removed the bullet points for our links in our `<ul />` but what are some other bullet point types you can specify?
 
 ## Style Menu Cards
-### Discussion:
-- What are the different ways we can add 3 rows of recipe cards?
-- What is the best way?
-### Requirements:
-- [ ] Recipe cards must have Light gray background
-- [ ] Use a different google font for the Recipe Name
-
-## Commit & Reflect
-- [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
-### Discussion:
-- We use flexbox a lot at HelloFresh. What are the benefits of Flexbox?
 
 ### Make the recipe cards look like this:
 ![recipecard](./recipecard.png)
+### Discussion:
+- What are the different ways we can add 3 rows of recipe cards?
+- What is the best way?
 ### Requirements
 - [ ] Card must have a drop shadow
+- [ ] Recipe cards must have Light gray background
+- [ ] Use a different google font for the Recipe Name
 - [ ] Image should be on top and take up entire space of to the top and sides of the card
 - [ ] Title size must be 16px and Description size must be 14px
 - [ ] At the bottom left, we tell user how long it will take to cook (in bold) and display its labels in dark gray
 - [ ] The recipe description text should only span one line. If the text is too big, have it ellipses at the end. (I.E. with Roasted Veggies, Cucumber Raita & Garlic Bas...)
 
-## Commit your changes so far
+## Commit & Reflect
 - [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
+### Discussion:
+- We use flexbox a lot at HelloFresh. What are the benefits of Flexbox?
+- What are the different options for "overflow"?
 
 ### <div class="hall-of-fame"></div>
 ![hall of fame](./hall-of-fame.png)
