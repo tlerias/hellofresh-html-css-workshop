@@ -44,7 +44,7 @@
 - [ ] Have an "alt" text to all images
 
 ## Commit your changes so far
-- [ ] Push up your current code changes to your branch (not Master branch) in github
+- [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
 
 ## Style the header
 - [ ] Logo should only be 30px tall
@@ -54,7 +54,7 @@
 - [ ] Add "title" text to all links to make it more accessible
 
 ## Commit your changes so far
-- [ ] Push up your current code changes to your branch (not Master branch) in github
+- [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
 
 ## Style Menu Cards
 ### Discussion:
@@ -65,7 +65,7 @@
 - [ ] Use a different google font for the Recipe Name
 
 ## Commit your changes so far
-- [ ] Push up your current code changes to your branch (not Master branch) in github
+- [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
 
 ### Make the recipe cards look like this:
 ![recipecard](./recipecard.png)
@@ -77,7 +77,7 @@
 - [ ] The recipe description text should only span one line. If the text is too big, have it ellipses at the end. (I.E. with Roasted Veggies, Cucumber Raita & Garlic Bas...)
 
 ## Commit your changes so far
-- [ ] Push up your current code changes to your branch (not Master branch) in github
+- [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
 
 ### <div class="hall-of-fame"></div>
 ![hall of fame](./hall-of-fame.png)
@@ -92,14 +92,14 @@
 - [ ] Add a "Hall of fame" label with an orange background. Use the same color we use on the [HF Menu Page](https://www.hellofresh.com/menus)).
 
 ## Commit your changes so far
-- [ ] Push up your current code changes to your branch (not Master branch) in github
+- [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
 
 ### Sticky Footer
 - [ ] Make the footer with the "Get cooking" button sticky to the bottom of the page.
 - [ ] Change the "Get cooking" Footer link to be an HTML Button instead, fix the styles.
 
 ## Commit your changes so far
-- [ ] Push up your current code changes to your branch (not Master branch) in github
+- [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
 
 ### Advanced
 
