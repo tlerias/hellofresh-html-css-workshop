@@ -41,6 +41,9 @@
 ## Images must be accessible
 - [ ] Have an "alt" text to all images
 
+## Commit your changes so far
+- [ ] Push up your current code changes to your branch (not Master branch) in github
+
 ## Style the header
 - [ ] Logo should only be 30px tall
 - [ ] Links must be inline with 30px padding between each link
@@ -48,6 +51,8 @@
 - [ ] Change the link target to open in the current browser tab rather than a new window
 - [ ] Add "title" text to all links to make it more accessible
 
+## Commit your changes so far
+- [ ] Push up your current code changes to your branch (not Master branch) in github
 
 ## Style Menu Cards
 ### Discussion:
@@ -57,8 +62,11 @@
 - [ ] Recipe cards must have Light gray background
 - [ ] Use a different google font for the Recipe Name
 
+## Commit your changes so far
+- [ ] Push up your current code changes to your branch (not Master branch) in github
+
 ### Make the recipe cards look like this:
-[!recipecard](./recipecard.png)
+![recipecard](./recipecard.png)
 ### Requirements
 - [ ] Card must have a drop shadow
 - [ ] Image should be on top and take up entire space of to the top and sides of the card
@@ -66,17 +74,26 @@
 - [ ] At the bottom left, we tell user how long it will take to cook (in bold) and display its labels in dark gray
 - [ ] The recipe description text should only span one line. If the text is too big, have it ellipses at the end. (I.E. with Roasted Veggies, Cucumber Raita & Garlic Bas...)
 
+## Commit your changes so far
+- [ ] Push up your current code changes to your branch (not Master branch) in github
+
 ### <div class="hall-of-fame"></div>
-[!hall of fame](./hall-of-fame.png)
+![hall of fame](./hall-of-fame.png)
 ### Requirements
 - [ ] Card must be as tall as two cards and fit the length of the container (as we currently do on the [HF Menu Page](https://www.hellofresh.com/menus))
 - [ ] Image must be 728px tall
 - [ ] Review text must overlap the image and review author's name must be on the right with the rest of the review text left aligned
 - [ ] Add a "Hall of fame" label with an orange background. Use the same color we use on the [HF Menu Page](https://www.hellofresh.com/menus)).
 
+## Commit your changes so far
+- [ ] Push up your current code changes to your branch (not Master branch) in github
+
 ### Sticky Footer
 - [ ] Make the footer with the "Get cooking" button sticky to the bottom of the page.
 - [ ] Change the "Get cooking" Footer link to be an HTML Button instead, fix the styles.
+
+## Commit your changes so far
+- [ ] Push up your current code changes to your branch (not Master branch) in github
 
 ### Advanced
 
