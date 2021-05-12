@@ -59,12 +59,12 @@
 - [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
 ### Discussion:
 - Why should normalize.css (and other vendor CSS) go BEFORE style.css?
-- Google Fonts gives you two options for embedding the CSS <link> and @import, what is the difference between the two?
-- Google Fonts provides you a <link> with a attribute `rel="preconnect"` what is preconnect?
+- Google Fonts gives you two options for embedding the CSS `<link>` and `@import`, what is the difference between the two?
+- Google Fonts provides you a `<link>` with a attribute `rel="preconnect"` what is preconnect?
 - What is another link `rel` that helps with performance?
 
 ## Add Semantic HTML to make it more Accessible
-- [ ] For this workshop, you must use <nav /> <header /> <main />
+- [ ] For this workshop, you must use `<nav /> <header /> <main />`
 - [ ] Add 3 more semantic HTML tags that were not used above
 
 ## Headings
@@ -95,7 +95,7 @@
 - [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
 ### Discussion:
 - What is the difference between `<ul></ul>` and `<ol><ol>`?
-- We removed the bullet points for our links in our <ul /> but what are some other bullet point types you can specify?
+- We removed the bullet points for our links in our `<ul />` but what are some other bullet point types you can specify?
 
 ## Style Menu Cards
 ### Discussion:
