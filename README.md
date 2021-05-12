@@ -1,3 +1,21 @@
+# How to approach this workshop
+- Pair programming: Work together on this workshop but also follow along on your own computer by having your own copy of the workshop
+- Do the discussion points! Discuss with your partner what something is and why one way may be better than another.
+- How did you find the answer? A big part of this workshop is finding the answers on your own. Use Google and the Resources provided to help you through the workshop, but discuss with your partner the steps you took to find the answer.
+- Save your progress. After each significant step, the workshop asks you to push up your code.
+- If you run out of time during the pair programming session, continue and finish this workshop on your own. Create a pull request when finished then reach out to @Tara Bird to review your code. If you have any questions along the way, I am happy to answer.
+
+## Helpful Resources
+- [HTML & CSS Rules](https://www.w3schools.com/)
+- [How to CSS from beginner to advanced](https://css-tricks.com/)
+- [Practice](https://www.codecademy.com/)
+- [Online editor sandbox](https://codepen.io/)
+- [Flexbox Cheat sheet](https://flexbox.malven.co/)
+- [Accessible Color Contrast Helper](https://color.a11y.com)
+- [More about Web Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [GOOGLE IS YOUR BEST FRIEND!](www.google.com)
+
+
 
 # Getting Started
 - [ ] Clone this repo
