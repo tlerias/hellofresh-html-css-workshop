@@ -2,7 +2,7 @@
 - Pair programming: Work together on this workshop but also follow along on your own computer by having your own copy of the workshop
 - Do the discussion points! Discuss with your partner what something is and why one way may be better than another.
 - How did you find the answer? A big part of this workshop is finding the answers on your own. Use Google and the Resources provided to help you through the workshop, but discuss with your partner the steps you took to find the answer.
-- Save your progress. After each significant step, the workshop asks you to push up your code.
+- Save your progress. After each significant step, the workshop asks you to push up your code. In production applications we want to keep our commits small and commit often! Makes debugging easier.
 - If you run out of time during the pair programming session, continue and finish this workshop on your own. Create a pull request when finished then reach out to @Tara Bird to review your code. If you have any questions along the way, I am happy to answer.
 
 ## Helpful Resources
