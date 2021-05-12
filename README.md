@@ -119,12 +119,13 @@
 - We use flexbox a lot at HelloFresh. What are the benefits of Flexbox?
 - What are the different options for "overflow"?
 
-### <div class="hall-of-fame"></div>
+### Style Hall of Fame Cards
 ![hall of fame](./hall-of-fame.png)
 ### Discussion:
 - What is an SVG?
 - How is it different from an image?
 ### Requirements
+- Find the `<div class="hall-of-fame"></div>`
 - [ ] Change the color of the stars to be yellow
 - [ ] Card must be as tall as two cards and fit the length of the container (as we currently do on the [HF Menu Page](https://www.hellofresh.com/menus))
 - [ ] Image must be 728px tall
