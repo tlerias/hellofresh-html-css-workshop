@@ -19,9 +19,9 @@
 
 # Getting Started
 - [ ] [FORK](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) this repo
-- [ ] Clone the fork to your local machine
+- [ ] Clone the fork to your local machine and open in your favorite Code Editor
 - [ ] [Create a new branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) with your name
-- [ ] Navigate to this folder on your computer and open up index.html in browser
+- [ ] Open up index.html in browser
 - [ ] Open the [HF Menu Page](https://www.hellofresh.com/menus) in a separate browser tab. This is the page we will be building.
 - [ ] Open your [Browser Dev Tools](https://balsamiq.com/support/faqs/browserconsole/#:~:text=To%20open%20the%20developer%20console,(on%20Windows%2FLinux).) for the [HF Menu Page](https://www.hellofresh.com/menus) so you can inspect the HTML and CSS as you work.
 
@@ -29,28 +29,43 @@
 
 ![desktop view](./menu-desktop.png)
 
+## index.html
+### Discussion:
+- Why is this file specifically named "index.html"?
+- What are the benefits of using this file name versus another name like "recipes.html"?
+
 ## Add an HTML meta title
-- Go to https://www.hellofresh.com/menus, what's the title that we use here? Add it to your HTML file.
+- Go to https://www.hellofresh.com/menus, what's the title that we use here?
+- [ ] Add it to your HTML file.
 
 ## Add normalize.css
 ### Discussion:
 - What is normalize css?
 - Why do we want to use it?
 ### Requirements:
-- [ ] Link the normalize.css file to your HTML document
+- [ ] Link the provided normalize.css file to your HTML document
 
 ## Create a stylesheet & Link it to HTML
 - [ ] Create a file called "style.css"
-- [ ] Link style.css to your HTML. Where does this file go in relation to your normalize.css file?
+- [ ] Link style.css to your HTML
 
-## Add Semantic HTML to make it more Accessible
-- [ ] For this workshop, you must use <nav /> <header /> <main />
-- [ ] Add 3 more semantic HTML tags that were not used above
 
 ## Add a Google Font
 - [ ] Pick a font on https://fonts.google.com/
 - [ ] Add your chosen font to your HTML
 - [ ] Make sure all of your text is using this new font.
+
+## Commit & Reflect
+- [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
+### Discussion:
+- Why should normalize.css (and other vendor CSS) go BEFORE style.css?
+- Google Fonts gives you two options for embedding the CSS <link> and @import, what is the difference between the two?
+- Google Fonts provides you a <link> with a attribute `rel="preconnect"` what is preconnect?
+- What is another link `rel` that helps with performance?
+
+## Add Semantic HTML to make it more Accessible
+- [ ] For this workshop, you must use <nav /> <header /> <main />
+- [ ] Add 3 more semantic HTML tags that were not used above
 
 ## Headings
 ### Discussion:
@@ -62,8 +77,12 @@
 ## Images must be accessible
 - [ ] Have an "alt" text to all images
 
-## Commit your changes so far
+## Commit & Reflect
 - [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
+### Discussion:
+- Why do we need accessibility?
+- How do "alt" tags help images and accessibility?
+
 
 ## Style the header
 - [ ] Logo should only be 30px tall
@@ -72,9 +91,12 @@
 - [ ] Change the link target to open in the current browser tab rather than a new window
 - [ ] Add "title" text to all links to make it more accessible
 
-## Commit your changes so far
+## Commit & Reflect
 - [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
-
+### Discussion:
+- What is the difference between `<ul></ul>` and `<ol><ol>`?
+- We removed the bullet points for our links in our <ul /> but what are some other bullet point types you can specify?
+`
 ## Style Menu Cards
 ### Discussion:
 - What are the different ways we can add 3 rows of recipe cards?
@@ -83,8 +105,10 @@
 - [ ] Recipe cards must have Light gray background
 - [ ] Use a different google font for the Recipe Name
 
-## Commit your changes so far
+## Commit & Reflect
 - [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
+### Discussion:
+- We use flexbox a lot at HelloFresh. What are the benefits of Flexbox?
 
 ### Make the recipe cards look like this:
 ![recipecard](./recipecard.png)
@@ -110,15 +134,23 @@
 - [ ] Review text must overlap the image and review author's name must be on the right with the rest of the review text left aligned
 - [ ] Add a "Hall of fame" label with an orange background. Use the same color we use on the [HF Menu Page](https://www.hellofresh.com/menus)).
 
-## Commit your changes so far
+## Commit & Reflect
 - [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
+### Discussion:
+- What are the different positions an HTML element can have?
+- Specify one situation for each type of position.
 
 ### Sticky Footer
 - [ ] Make the footer with the "Get cooking" button sticky to the bottom of the page.
 - [ ] Change the "Get cooking" Footer link to be an HTML Button instead, fix the styles.
 
-## Commit your changes so far
+## Commit & Reflect
 - [ ] Push up your current code changes with a descriptive commit to your branch (not Master branch) in github
+### Discussion:
+- What's the difference between margin and padding?
+- If I had an element with a border, you will see by default that the border is NOT accounted for in the height and width. How would I change this so that the border is accounted for in the height and width calculations?
+- What is the CSS Box Model?
+- Padding area is one element that makes up the CSS Box Model, what are the other elements?
 
 ### Advanced
 
