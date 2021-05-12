@@ -119,7 +119,7 @@
 - We use flexbox a lot at HelloFresh. What are the benefits of Flexbox?
 - What are the different options for "overflow"?
 
-### Style Hall of Fame Cards
+## Style Hall of Fame Cards
 ![hall of fame](./hall-of-fame.png)
 ### Discussion:
 - What is an SVG?
