@@ -1,4 +1,22 @@
 body {
-  background-color: lightblue;
+  background-color: white;
   font-family: "Anton", sans-serif;
+}
+
+.logo {
+  height: 30px;
+}
+
+.header-link {
+  display: inline;
+  padding: 30px;
+  text-decoration: none;
+}
+
+.header-link:hover {
+  background-color: #e4fabf;
+}
+
+a:hover {
+  color: #067a46;
 }
