@@ -1,10 +1,11 @@
 body {
   background-color: white;
-  font-family: "Anton", sans-serif;
+  font-family: "Merriweather", serif;
 }
 
 main {
   text-align: center;
+  padding-bottom: 150px;
 }
 
 h1 {
@@ -51,7 +52,7 @@ a:hover {
 figure {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   display: inline-block;
-  border: 5px solid red;
+  /* border: 5px solid red; */
   margin-inline-end: 5px;
 }
 
@@ -75,7 +76,6 @@ figure {
   font-size: 14px;
   padding-left: 5px;
   text-align: left;
-  /* display: block; */
 }
 
 .preference-label {
@@ -94,9 +94,57 @@ figure {
 .img-hall-of-fame {
   height: 728px;
   display: inline-block;
+  position: relative;
+  color: black;
 }
 
 .hall-of-fame {
   border: 5px solid blue;
+  display: inline-block;
+}
+
+.best-recipe {
+  position: absolute;
+  /* padding-left: 20px;
+  padding-top: 20px;  */
+  bottom: -500px;
+  left: 200px;
+}
+
+.reviewer-name {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 72px;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  border-top: 2px solid #e4e4e4;
+  padding: 11px 11px 11px 11px;
+}
+
+.button {
+  font-family: Agrandir, Verdana, Geneva, sans-serif;
+  background-color: #067a46;
+  color: white;
+  font-size: 16px;
+  display: inline-block;
+  border-radius: 5px;
+  margin: 11px;
+}
+
+.button:hover {
+  background-color: darkgreen;
+  color: white;
   display: inline-block;
 }
