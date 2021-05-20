@@ -1,11 +1,19 @@
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 body {
   background-color: white;
   font-family: "Merriweather", serif;
 }
 
 main {
-  text-align: center;
-  padding-bottom: 150px;
+  padding-bottom: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 h1 {
@@ -27,6 +35,11 @@ h2 {
 
 .logo {
   height: 30px;
+  width: initial;
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: 20px;
+  margin-right: 20px;
 }
 
 .header-link {
@@ -34,6 +47,8 @@ h2 {
   list-style: none;
   text-decoration: none;
   font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, sans-serif;
+  vertical-align: middle;
+  margin-top: 20px;
 }
 
 a {
@@ -49,11 +64,14 @@ a:hover {
   text-decoration: none;
 }
 
-figure {
+.recipe-card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  display: inline-block;
-  /* border: 5px solid red; */
-  margin-inline-end: 5px;
+  width: 348px;
+}
+
+.recipe-card-image {
+  width: 100%;
+  height: 195.5px;
 }
 
 .recipe-description {
@@ -85,40 +103,73 @@ figure {
   padding-left: 5px;
 }
 
-.img-menu {
-  padding-bottom: 10px;
-  width: 348px;
-  height: 195.5;
+.hall-of-fame {
+  display: inline-block;
+  position: relative;
+  margin-left: 30px;
+  margin-bottom: 50px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: relative;
 }
 
 .img-hall-of-fame {
-  height: 728px;
-  display: inline-block;
+  width: 728px;
   position: relative;
-  color: black;
-}
-
-.hall-of-fame {
-  border: 5px solid blue;
   display: inline-block;
+  margin-bottom: 5px;
 }
 
 .best-recipe {
+  font-family: Agrandir, Verdana, Geneva, sans-serif;
+  font-size: 20px;
   position: absolute;
-  /* padding-left: 20px;
-  padding-top: 20px;  */
-  bottom: -500px;
-  left: 200px;
+  top: 350px;
+  left: 20px;
+  color: white;
 }
 
 .reviewer-name {
-  position: absolute;
-  bottom: 20px;
-  right: 20px;
-  background-color: black;
+  font-family: Agrandir, Verdana, Geneva, sans-serif;
+  font-size: 16px;
   color: white;
-  padding-left: 20px;
-  padding-right: 20px;
+  position: absolute;
+  top: 430px;
+  right: 40px;
+}
+
+.stars {
+  position: absolute;
+  top: 300px;
+  left: 20px;
+}
+
+.yummy {
+  position: absolute;
+  top: 400px;
+  left: 20px;
+  color: white;
+  font-family: Agrandir, Verdana, Geneva, sans-serif;
+  font-size: 16px;
+}
+
+.hof-title {
+  font-family: Agrandir, Verdana, Geneva, sans-serif;
+  font-size: 24px;
+  font-style: none;
+}
+
+.hof-label {
+  color: white;
+  background-color: #f0aa4a;
+  font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, sans-serif;
+  border-radius: 5px;
+  display: inline-block;
+  padding-right: 4px;
+  padding-left: 4px;
+  margin-left: 5px;
+  font-size: 20px;
+  text-transform: uppercase;
 }
 
 footer {
@@ -133,18 +184,18 @@ footer {
   padding: 11px 11px 11px 11px;
 }
 
-.button {
+.footer-button {
   font-family: Agrandir, Verdana, Geneva, sans-serif;
   background-color: #067a46;
   color: white;
   font-size: 16px;
   display: inline-block;
   border-radius: 5px;
-  margin: 11px;
+  padding: 11px;
 }
 
-.button:hover {
-  background-color: darkgreen;
+.footer-button:hover {
+  background-color: #067a46;
   color: white;
   display: inline-block;
 }
