@@ -11,6 +11,7 @@ body {
 
 main {
   padding-bottom: 100px;
+  padding-left: 50px;
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
@@ -117,24 +118,22 @@ a:hover {
   padding-left: 5px;
 }
 
-/* .hall-of-fame {
+.hall-of-fame {
   display: inline-block;
   position: relative;
   width: 728px;
-  margin-bottom: 10px;
-  margin-top: 10px;
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 100%;
   z-index: -1;
-} */
+}
 
-/* .img-hall-of-fame {
+.img-hall-of-fame {
   width: 728px;
+  height: 100%;
   position: relative;
   display: inline-block;
-} */
+}
 
-/* .best-recipe {
+.best-recipe {
   font-family: Agrandir, Verdana, Geneva, sans-serif;
   font-size: 20px;
   position: absolute;
@@ -182,9 +181,10 @@ a:hover {
   padding-right: 4px;
   padding-left: 4px;
   margin-left: 5px;
+  margin-top: 5px;
   font-size: 20px;
   text-transform: uppercase;
-} */
+}
 
 footer {
   position: fixed;
